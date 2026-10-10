@@ -1,6 +1,6 @@
 # Vero
 
-**A personal archive AI can use, with a hard line around what it must never see**
+**An operating system for your life's information.** It files itself, builds your timeline, claims and connections with evidence, briefs you daily, and gives AI agents safe access.
 
 **[Read the case study →](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/vero.md)** · [Live](https://myown.life) (private, passkey sign-in)
 
