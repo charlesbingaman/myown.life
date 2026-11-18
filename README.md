@@ -2,9 +2,9 @@
 
 **An operating system for your life's information.** It files itself, builds your timeline, claims and connections with evidence, briefs you daily, and gives AI agents safe access.
 
-**[Read the case study →](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/vero.md)** · [Live](https://myown.life) (private, passkey sign-in)
+**[Read the case study →](https://github.com/charlesbingaman/portfolio/blob/main/case-studies/vero.md)** · [Live](https://myown.life) (private, passkey sign-in)
 
-[![Vero](img/hero-framed.jpg)](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/vero.md)
+[![Vero](img/hero-framed.jpg)](https://github.com/charlesbingaman/portfolio/blob/main/case-studies/vero.md)
 
 - **An archive that files itself.** Every document becomes typed, dated, sourced metadata, and from it come a career
   timeline, claims, deadlines and an entity graph. Nobody files anything.
@@ -16,4 +16,4 @@
 
 ---
 Screens show a demo archive of a fictional person. This repository is a showcase: the code is private. A walkthrough is available on request.
-More work: [portfolio](https://github.com/CB-viberrr/portfolio) · © 2026 Charles Bingaman
+More work: [portfolio](https://github.com/charlesbingaman/portfolio) · © 2026 Charles Bingaman
